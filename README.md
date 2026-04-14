@@ -2,7 +2,7 @@
 
 Connect a Telegram bot to your Claude Code with full support for **DM, Groups, and Channels**.
 
-This is a fork of the official `telegram@claude-plugins-official` plugin (v0.0.4), with the following bugs fixed and features added.
+This is a fork of the official `telegram@claude-plugins-official` plugin (v0.0.5), with channel support bugs fixed and features added.
 
 ---
 
